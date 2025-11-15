@@ -1,16 +1,144 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Lluc</h1>
 
-<!--
-**LlucMH/LlucMH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Data Platform Engineer · Analytics Engineer · Data Scientist</b><br/>
+  <i>Full-Stack Developer (for fun)</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧬 Developer Card
+
+```python
+from typing import Tuple, Dict, List
+
+
+class Attributes:
+    """
+    LlucMH — Data Platform Engineer · Analytics Engineer · Data Scientist
+    Full-Stack Developer (hobby)
+    """
+
+    @staticmethod
+    def contact() -> Tuple[str, str]:
+        linkedin = "https://www.linkedin.com/in/lluc-mata"
+        github   = "https://github.com/LlucMH"
+
+        return linkedin, github
+
+    @staticmethod
+    def life() -> Tuple[List[str], List[str]]:
+        languages     = ["Spanish", "English"]
+        nationalities = ["Spanish"]
+
+        return languages, nationalities
+
+    @staticmethod
+    def education() -> dict:
+        degrees = {
+            "bachelor": [
+                "BSc in Mathematics"
+            ],
+            "masters": [
+                "MSc in Computational and Mathematical Engineering",
+                "MBA — Master in Business Administration",
+                "Master's Degree in Teaching (Pedagogy / Education)",
+                "Master in Big Data & Business Intelligence"
+            ],
+            "postgraduate": [
+                "Postgraduate Degree in Marketing Analytics"
+            ],
+            "vocational_training": [
+                "Ironhack — Full-Stack Software Development Bootcamp"
+            ],
+            "other_certifications": [
+                "Advanced Course in Artificial Intelligence"
+            ]
+        }
+        return degrees
+
+        extra_courses = [
+            "Machine Learning",
+            "Deep Learning (Keras)",
+            "Simulation (SimPy)",
+            "Probabilistic Modeling",
+            "Data Visualization"
+        ]
+
+        return degrees, extra_courses
+
+    @staticmethod
+    def coding() -> Tuple[Dict, Dict, Dict, Dict, List[str]]:
+        
+        data_stack = {
+            "languages"        : ["Python", "SQL"],
+            "processing"       : ["Pandas", "NumPy"],
+            "visualization"    : ["Matplotlib", "Seaborn"],
+            "machine_learning" : ["Scikit-Learn"],
+            "analytics"        : ["Tableau", "Astrato", "Metabase"],
+            "pipelines"        : ["Airflow", "dbt"],
+            "cloud"            : ["GCP", "AWS"],
+            "warehousing"      : ["BigQuery", "Redshift", "Databricks"],
+            "data_modeling"    : ["Dimensional", "Star Schema", "Medallion Architecture"],
+            "governance"       : ["SQLFluff", "dbt Tests"],
+            "databases"        : ["PostgreSQL"],
+            "devops"           : ["Docker", "GitHub"]
+        }
+
+        fullstack = {
+            "frontend": ["HTML", "CSS", "JavaScript", "React"],
+            "backend" : ["Java", "Spring Boot", "REST APIs"],
+            "cloud"   : ["Supabase"],
+            "tools"   : ["Figma", "Vite", "npm", "Postman", "Netlify", "Vercel"]
+        }
+
+        advanced_topics = {
+            "statistics"   : ["Regression", "Clustering", "Hypothesis Testing", "A/B Testing"],
+            "simulation"   : ["SimPy"],
+            "deep_learning": ["Keras"]
+        }
+
+        specialities = [
+            "Data Platform Engineering",
+            "Analytics Engineering",
+            "Data Science",
+            "ETL/ELT Pipelines",
+            "Cloud Data Architectures",
+            "Dashboarding & BI",
+            "ML for Business Use Cases",
+            "Experimental Design",
+            "Optimization",
+            "Early Warning Systems"
+        ]
+
+        environment = [
+            "VSCode", "PyCharm",
+            "GitHub", "Docker",
+            "GCP", "AWS"
+        ]
+
+        return data_stack, fullstack, advanced_topics, specialities, environment
+```
+
+----
+📊 Dev Panel / Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LlucMH&show_icons=true&theme=react&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LlucMH&layout=compact&theme=react&hide_border=true" height="165" /> </p>
+
+---
+🧠 Snapshot
+
+- 🧩 Core: Data Platform · Analytics Engineering · Data Science
+- 🛠️ Pipelines: Airflow · dbt · Python ETL
+- 🗄️ Warehousing: BigQuery · Redshift · Databricks
+- 📊 Analytics: Tableau · Astrato · Metabase
+- ☁️ Cloud: GCP · AWS
+- 🧮 ML: Scikit-Learn · A/B Testing · Forecasting
+- 🧱 Modeling: Dimensional · Medallion · Star Schema · Kimball
+- 💻 Full-Stack (hobby): Java · Spring Boot · React · HTML · CSS · JS
+
+---
+📫 Contact
+
+🔗 LinkedIn: [[Here]](https://www.linkedin.com/in/lluc-mata)
+
+🐙 GitHub: [[Here]](https://github.com/LlucMH)
