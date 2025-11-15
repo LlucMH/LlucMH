@@ -22,6 +22,7 @@ class Attributes:
     @staticmethod
     def contact() -> Tuple[str, str]:
         linkedin = "https://www.linkedin.com/in/lluc-mata"
+        tableau  = "https://public.tableau.com/app/profile/lluc1136"
         github   = "https://github.com/LlucMH"
 
         return linkedin, github
@@ -140,5 +141,5 @@ class Attributes:
 📫 Contact
 
 🔗 LinkedIn: [[Here]](https://www.linkedin.com/in/lluc-mata)
-
 🐙 GitHub: [[Here]](https://github.com/LlucMH)
+📈 Tableau Public: [[Here]](https://public.tableau.com/app/profile/lluc1136) 
