@@ -12,13 +12,12 @@
 ```python
 from typing import Tuple, Dict, List
 
-
 class Attributes:
     """
     LlucMH — Data Platform Engineer · Analytics Engineer · Data Scientist
     Full-Stack Developer (hobby)
     """
-
+    
     @staticmethod
     def contact() -> Tuple[str, str]:
         linkedin = "https://www.linkedin.com/in/lluc-mata"
@@ -120,13 +119,33 @@ class Attributes:
 
         return data_stack, fullstack, advanced_topics, specialities, environment
 ```
+----
+## 🧠 Stack
+
+<div align="center">
+
+  <img src="https://skillicons.dev/icons?i=python,postgresql,mysql,sqlite,gcp,aws,tensorflow,py,opencv,html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=java,spring,vite,vercel,netlify,github,git,docker,kubernetes,figma" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redshift-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Astrato-000000?style=for-the-badge"/>
+
+</div>
+
+
 
 ----
-📊 Dev Panel / Stats
+## 📊 Dev Panel / Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LlucMH&show_icons=true&theme=react&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LlucMH&layout=compact&theme=react&hide_border=true" height="165" /> </p>
-
 ---
-🧠 Snapshot
+## 🧠 Snapshot
 
 - 🧩 Core: Data Platform · Analytics Engineering · Data Science
 - 🛠️ Pipelines: Airflow · dbt · Python ETL
@@ -138,8 +157,8 @@ class Attributes:
 - 💻 Full-Stack (hobby): Java · Spring Boot · React · HTML · CSS · JS
 
 ---
-📫 Contact
+## 📫 Contact
 
-🔗 LinkedIn: [[Here]](https://www.linkedin.com/in/lluc-mata)
-🐙 GitHub: [[Here]](https://github.com/LlucMH)
-📈 Tableau Public: [[Here]](https://public.tableau.com/app/profile/lluc1136) 
+- 🔗 LinkedIn: [[Here]](https://www.linkedin.com/in/lluc-mata)
+- <img src="https://skillicons.dev/icons?i=github" width="18"/> GitHub: [[Here]](https://github.com/LlucMH)
+- 📈 Tableau Public: [[Here]](https://public.tableau.com/app/profile/lluc1136) 
