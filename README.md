@@ -25,7 +25,7 @@ class Attributes:
         tableau  = "https://public.tableau.com/app/profile/lluc1136"
         github   = "https://github.com/LlucMH"
 
-        return linkedin, github
+        return linkedin, tableau, github
 
     @staticmethod
     def life() -> Tuple[List[str], List[str]]:
