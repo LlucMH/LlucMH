@@ -120,6 +120,7 @@ class Attributes:
         return data_stack, fullstack, advanced_topics, specialities, environment
 ```
 ----
+
 ## 🧠 Stack
 
 <div align="center">
@@ -132,20 +133,20 @@ class Attributes:
   <img src="https://img.shields.io/badge/Redshift-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Astrato-000000?style=for-the-badge"/>
 
 </div>
 
-
-
 ----
+
 ## 📊 Dev Panel / Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LlucMH&show_icons=true&theme=react&hide_border=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LlucMH&layout=compact&theme=react&hide_border=true" height="165" /> </p>
----
-## 🧠 Snapshot
+
+----
+
+## 📸 Snapshot
 
 - 🧩 Core: Data Platform · Analytics Engineering · Data Science
 - 🛠️ Pipelines: Airflow · dbt · Python ETL
@@ -156,7 +157,8 @@ class Attributes:
 - 🧱 Modeling: Dimensional · Medallion · Star Schema · Kimball
 - 💻 Full-Stack (hobby): Java · Spring Boot · React · HTML · CSS · JS
 
----
+----
+
 ## 📫 Contact
 
 - 🔗 LinkedIn: [[Here]](https://www.linkedin.com/in/lluc-mata)
