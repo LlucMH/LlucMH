@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Lluc</h1>
 
 <p align="center">
-  <b>Data Platform Engineer · Analytics Engineer · Data Scientist</b><br/>
+  <b>Data Engineer · Analytics Engineer · Data Scientist</b><br/>
   <i>Full-Stack Developer (for fun)</i>
 </p>
 
@@ -14,7 +14,7 @@ from typing import Tuple, Dict, List
 
 class Attributes:
     """
-    LlucMH — Data Platform Engineer · Analytics Engineer · Data Scientist
+    LlucMH — Data Engineer · Analytics Engineer · Data Scientist
     Full-Stack Developer (hobby)
     """
     
@@ -99,7 +99,7 @@ class Attributes:
         }
 
         specialities = [
-            "Data Platform Engineering",
+            "Data Engineering",
             "Analytics Engineering",
             "Data Science",
             "ETL/ELT Pipelines",
@@ -148,7 +148,7 @@ class Attributes:
 
 ## 📸 Snapshot
 
-- 🧩 Core: Data Platform · Analytics Engineering · Data Science
+- 🧩 Core: Data Engineer · Analytics Engineering · Data Science
 - 🛠️ Pipelines: Airflow · dbt · Python ETL
 - 🗄️ Warehousing: BigQuery · Redshift · Databricks
 - 📊 Analytics: Tableau · Astrato · Metabase
