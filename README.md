@@ -134,7 +134,7 @@ class Attributes:
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-F06A00?style=flat-square&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Metabase-509EE3?style=flat-square&logo=metabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Astrato-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Astrato-000000?style=flat-square&logo=astrato&logoColor=white" />
 </p>
 
 ----
